@@ -6,7 +6,7 @@
         ovadia-safety
       </h1>
       <h2 class="subtitle">
-        My solid Nuxt.js project YO!
+        My solid Nuxt.js project YO YO!
       </h2>
       <div class="links">
         <a
